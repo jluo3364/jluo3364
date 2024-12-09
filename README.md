@@ -8,6 +8,10 @@
 ## 🎯 Featured Project: Topic Modeling for Clorox
 **What We Did**: Developed topic modeling modules to extract key themes from online customer reviews. Created improved alternatives to an existing solution that produced excessive topics (100-300) for each product subcategory.
 
+**My Accomplishments**: Implemented and refined two models: Latent Semantic Analysis (LSA) and BERTopic (with k-means clustering) 
+- Achieved comparable topic quality to the original BERTopic implementation using LSA, a lightweight, efficient topic modeling algorithm
+- Developed topic evaluation method using sentence transformers and similarity score
+
 **Tools**: Python, Gensim (LDA2Vec), scikit-learn (LSA), Top2Vec, BERTopic, Groq (to use Llama3), HuggingFace sentence-transformers
 
 **Result**: Models generate 10-20 representative topics per product subcategory, enabling marketing and R&D teams to focus on critical customer feedback. Reduced topic modeling costs by using Llama3 instead of OpenAI.
