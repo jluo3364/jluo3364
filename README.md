@@ -1,8 +1,7 @@
-# 🌻 Hi there! I’m Jessica, an aspiring data/ML engineer.
-- Junior at Rutgers University, studying computer science
-- Passionate about transforming large volumes of raw data into actionable insights 🌟 
-- Currently learning advanced ML techniques through [Break Through Tech AI](https://www.breakthroughtech.org/) and exploring front-end development with React
-- Former Data Engineer Intern at Johnson & Johnson—developed tools to support exploratory data analysis (EDA) of clinical study results
+# 👾 Hi! I’m Jessica, an aspiring data/ML engineer.
+- Senior at Rutgers University, studying computer science
+- Passionate about transforming raw data into actionable insights 🌟 
+- Currently working on ML/AI at Tesla
 - Fun fact: I enjoy experimenting with baking recipes. Banana bread is my favorite to bake! 🍞
 
 ## 🎯 Featured Project: Topic Modeling for Clorox
@@ -19,11 +18,11 @@
 Check out the full project [here](https://github.com/jluo3364/BTT-Clorox-Company)
 
 ## 🛠️ Tech Stack
-- Programming Languages: Python, Java, JavaScript, R
+- Programming Languages: Python, Java, JavaScript
 - Data Science: Pandas, NumPy scikit-learn, TensorFlow, matplotlib
 - AI: HuggingFace, LangChain, Ollama
 - Web Dev: TypeScript, HTML/CSS, React.js, Node.js, Flask
-- Databases: MySQL, MongoDB
+- Databases: MySQL, Clickhouse
 
 ## 🚀 Projects
 A few other projects I’ve worked on:
